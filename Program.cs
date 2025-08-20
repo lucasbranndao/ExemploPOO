@@ -1,8 +1,18 @@
 ﻿using ExemploPOO.Models;
 
-Pessoa p1 = new Pessoa();
 
-p1.Nome = "Lucas";
-p1.Idade = 33;
+ContaCorrente c1 = new ContaCorrente(123, 1000);
 
-p1.Apresentar();
+c1.ExibirSaldo();
+c1.Sacar(0);
+c1.ExibirSaldo();
+
+
+
+
+// Pessoa p1 = new Pessoa();
+
+// p1.Nome = "Lucas";
+// p1.Idade = 33;
+
+// p1.Apresentar();
