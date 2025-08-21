@@ -1,20 +1,30 @@
 ﻿using ExemploPOO.Models;
 
+Pessoa p1 = new Pessoa("Lucas");
+Aluno a1 = new Aluno("arthur");
+Professor prof = new Professor("Caio");
 
-Aluno a1 = new Aluno();
+// Corrente c = new Corrente();
+// c.Creditar(500);
+// c.ExibirSaldo();
+// c.Creditar(500);
+// c.ExibirSaldo();
 
-a1.Nome = "Lucas";
-a1.Idade = 20;
-a1.Email = "teste@teste.com";
-a1.Nota = 10;
-a1.Apresentar();
 
-Professor p1 = new Professor();
+// Aluno a1 = new Aluno();
 
-p1.Nome = "Arthur";
-p1.Idade = 22;
-p1.Salario = 1000;
-p1.Apresentar();
+// a1.Nome = "Lucas";
+// a1.Idade = 20;
+// a1.Email = "teste@teste.com";
+// a1.Nota = 10;
+// a1.Apresentar();
+
+// Professor p1 = new Professor();
+
+// p1.Nome = "Arthur";
+// p1.Idade = 22;
+// p1.Salario = 1000;
+// p1.Apresentar();
 
 
 
