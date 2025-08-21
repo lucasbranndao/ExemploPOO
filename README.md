@@ -4,3 +4,5 @@ as minhas habilidades adquiridas durante o periodo.
  - POO(Programação Orientada a Objetos):
     - Abstração
     - Encapsulamento
+    - Herança
+    - Polimorfismo
