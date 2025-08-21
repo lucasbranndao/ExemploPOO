@@ -6,3 +6,4 @@ as minhas habilidades adquiridas durante o periodo.
     - Encapsulamento
     - Herança
     - Polimorfismo
+    - Construtor por Herança
