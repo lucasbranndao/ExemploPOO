@@ -7,3 +7,5 @@ as minhas habilidades adquiridas durante o periodo.
     - Herança
     - Polimorfismo
     - Construtor por Herança
+    - Classe selada
+    - Métado selado 
