@@ -9,3 +9,4 @@ as minhas habilidades adquiridas durante o periodo.
     - Construtor por Herança
     - Classe selada
     - Métado selado 
+    - Interface
